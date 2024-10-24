@@ -1,0 +1,5 @@
+body { background-color: powderblue; }
+h1   {color: darkblue; font-size: 48px; font-family: Georgia; text-align: center}
+p    {color: black; font-size: 24px; font-family: Georgia; text-align: center}
+img   {display: block; margin: auto}
+a   {font-size: 24px; display: block; text-align: center}
